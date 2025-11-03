@@ -1,0 +1,9 @@
+C:/Git/OSINT/OSINT/build/Desktop_Qt_6_8_2_llvm_mingw_64_bit-Debug/CMakeFiles/OSINT.dir
+C:/Git/OSINT/OSINT/build/Desktop_Qt_6_8_2_llvm_mingw_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Git/OSINT/OSINT/build/Desktop_Qt_6_8_2_llvm_mingw_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Git/OSINT/OSINT/build/Desktop_Qt_6_8_2_llvm_mingw_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Git/OSINT/OSINT/build/Desktop_Qt_6_8_2_llvm_mingw_64_bit-Debug/CMakeFiles/install.dir
+C:/Git/OSINT/OSINT/build/Desktop_Qt_6_8_2_llvm_mingw_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Git/OSINT/OSINT/build/Desktop_Qt_6_8_2_llvm_mingw_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Git/OSINT/OSINT/build/Desktop_Qt_6_8_2_llvm_mingw_64_bit-Debug/CMakeFiles/OSINT_autogen_timestamp_deps.dir
+C:/Git/OSINT/OSINT/build/Desktop_Qt_6_8_2_llvm_mingw_64_bit-Debug/CMakeFiles/OSINT_autogen.dir

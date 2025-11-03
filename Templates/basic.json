@@ -1,0 +1,72 @@
+{
+  "Social Media": {
+    "Twitter": {
+      "entries": [],
+      "fields": ["username", "profile_url", "followers_count", "location", "bio", "notes"]
+    },
+    "Facebook": {
+      "entries": [],
+      "fields": ["username", "profile_url", "friends_count", "location", "bio", "notes"]
+    },
+    "Instagram": {
+      "entries": [],
+      "fields": ["username", "profile_url", "followers_count", "posts_count", "bio", "notes"]
+    },
+    "LinkedIn": {
+      "entries": [],
+      "fields": ["username", "profile_url", "connections", "position", "company", "notes"]
+    }
+  },
+  "Communication": {
+    "Email": {
+      "entries": [],
+      "fields": ["email_address", "provider", "associated_names", "notes"]
+    },
+    "Telegram": {
+      "entries": [],
+      "fields": ["handle", "phone_number", "username", "notes"]
+    },
+    "WhatsApp": {
+      "entries": [],
+      "fields": ["phone_number", "username", "notes"]
+    },
+    "Signal": {
+      "entries": [],
+      "fields": ["phone_number", "username", "notes"]
+    }
+  },
+  "Web Presence": {
+    "Websites": {
+      "entries": [],
+      "fields": ["url", "owner_name", "registrar", "creation_date", "notes"]
+    },
+    "GitHub": {
+      "entries": [],
+      "fields": ["username", "profile_url", "repositories", "followers", "notes"]
+    },
+    "GitLab": {
+      "entries": [],
+      "fields": ["username", "profile_url", "projects", "followers", "notes"]
+    }
+  },
+  "Forums & Communities": {
+    "Reddit": {
+      "entries": [],
+      "fields": ["username", "profile_url", "karma", "subreddits", "notes"]
+    },
+    "StackOverflow": {
+      "entries": [],
+      "fields": ["username", "profile_url", "reputation", "badges", "notes"]
+    },
+    "OtherForums": {
+      "entries": [],
+      "fields": ["username", "forum_name", "profile_url", "posts_count", "notes"]
+    }
+  },
+  "Metadata": {
+    "collection_date": "",
+    "analyst_name": "",
+    "target_identifier": "",
+    "notes": "General dataset metadata or investigation context"
+  }
+}
