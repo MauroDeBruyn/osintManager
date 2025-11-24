@@ -8,7 +8,7 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/MauroDeBruyn/osintManager">
   </a>
   <a href="https://github.com/MauroDeBruyn/">
-    <img alt="made by Mauro De Bruyn" src="https://img.shields.io/badge/made%20by-Your%20Name-ff69b4">
+    <img alt="made by Mauro De Bruyn" src="https://img.shields.io/badge/made%20by-Mauro%20De%20Bruyn-ff69b4">
   </a>
 </p>
 
