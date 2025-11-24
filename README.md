@@ -12,7 +12,7 @@
   </a>
 </p>
 
-![Project Banner](./resources/media/banner.png)
+![Project Banner](./image_2025-11-24_182046862.png)
 
 <h4 align="center">
   Status: 🧪 Prototype
